@@ -1,11 +1,9 @@
-# RP27-EC 👋
+# RP2027电控组 🤖
 
-Welcome to RP27-EC!
+欢迎大家加入电控组！
 
-## About Us
-
-We are the RP27-EC organization.
-
-## Projects
-
-Our projects will be listed here.
+>[!IMPORTANT]\
+>培训阶段，请大家创建好个人仓库，以赛季年份+自己的名字命名，如26_SL；\
+>后续任务及调车阶段代码请上传至个人仓库
+>
+>
